@@ -1,7 +1,7 @@
 # learngit
 
 
-# Essential commands of git for all developers
+# Essential git commands  for all developers
 
 ### 1.copy github repository to your pc: ```git clone repo_url```
 ### 2.add file to git after changes:  ``` git add file_name```
