@@ -2,7 +2,7 @@
 
 
 # Essential commands of git for all developers
-
+```
 1.copy github repository to your pc: ### git clone repo_url
 2.add file to git after changes: ### git add file_name
 3.finalize the changes: ### git commit -m 'message'
@@ -16,3 +16,4 @@
  11.delete a branch:###  git branch -d branch_name
 12.switch to branch:###  git checkout branch_name
 13.combine the branches:###  git merge branch_name
+```
